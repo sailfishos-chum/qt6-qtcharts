@@ -1,4 +1,4 @@
-%global  qt_version 6.7.2
+%global qt_version 6.8.4
 
 Summary: Qt6 - Charts component
 Name:    qt6-qtcharts
